@@ -53,8 +53,6 @@ Table lamp
 </div>
   
 
-
-## printable like:
 ## About the Project
 ### **Table Lamp** - It is a aesthetic table lamp with 140x skC6812RGBW matrix and Compatible with Compatible with [WLED framework](https://kno.wled.ge).
 ## Use case 
@@ -79,7 +77,7 @@ Table lamp
 ## Schematic
 [![EasyEDA](https://img.shields.io/badge/Designed%20in-EasyEDA-00578F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
 Source : `src/PCB/Sch`
-## [Oshwlab](https://oshwlab.com/dushyant0303/)
+## [Oshwlab]( https://oshwlab.com/dushyant0303/project_izvtyyxs)
 <img width=90% alt="Schematic" src="https://github.com/user-attachments/assets/2e477b96-a060-4c99-b86f-3c7ab96ad93b" />
 
 ## PCB 
@@ -114,7 +112,8 @@ Source: `BOM.csv`
 
 |item         |Qantity|price|link to buy                                     |
 |-------------|-------|-----|------------------------------------------------|
-|Pla+ filament| 30gram| 0.3$   |https://india.numakers.com/products/pla-filament|
+|Pla+ filament| 300gram| 3$   |https://india.numakers.com/products/pla-filament|
+|PCB + PCBA| 1 |   80$   |https://jlcpcb.com|
 
 
 ## Production
