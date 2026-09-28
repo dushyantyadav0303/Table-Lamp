@@ -150,13 +150,19 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
 
 [![Fusion 360](https://img.shields.io/badge/CAD%20in-Fusion%20360-orange?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360)
+[![EasyEDA](https://img.shields.io/badge/Designed%20in-EasyEDA-00578F?style=for-the-badge&logo=easyeda&logoColor=white)](https://easyeda.com)
 [![Hack Club Live YSWS](https://img.shields.io/badge/Hack%20Club-Live%20YSWS-FFC800?style=for-the-badge&logo=hack-club&logoColor=red.svg)](https://Live.hackclub.com)
 [![Blender](https://img.shields.io/badge/Rendered%20in-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org) 
 [![Bambu Studio](https://img.shields.io/badge/Rendered%20in-Bambu%20Studio-green?style=for-the-badge&logo=Bambulab&logoColor=white)](https://bambulab.com/en/download/studio) 
 
 </div>
 
-This project was created during a [Hack Club](https://hackclub.com) event [Live](https://live.hackclub.com).
+This project was created during a [Hack Club](https://hackclub.com) event [Live](https://live.hackclub.com). <br/>
+
+
+This project was designed with [EasyEDA](https://easyeda.com) and is part of the **EasyEDA Spark** open-source hardware design event by EasyEDA, JLCPCB. PCBs sponsored/manufactured by [JLCPCB](https://jlcpcb.com).
+
+Join the : [EasyEDA Spark 2026](https://oshwlab.com/activities/easyeda-spark-2026?inviter=dushyant0303)
 
 - **[Fusion 360](https://www.autodesk.com/products/fusion-360)** - Cad Designing
 - **[Blender](https://www.blender.org)** - Render 
