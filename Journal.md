@@ -4,7 +4,7 @@ description: "It is a aesthetic table lamp with 140x skC6812RGBW matrix and Comp
 Startes_at: "2026-07-16"
 ---
 
-<img width="1026" height="637" alt="image" src="https://github.com/user-attachments/assets/75685fa0-66e2-489d-80a2-c4e319078306" />
+<img width="954" height="713" alt="image" src="https://github.com/user-attachments/assets/9d65ef36-2722-4813-9b43-63bb8bd75b0c" />
 
 
 ## Hackatime link: https://hackatime.hackclub.com/@dushyantYadav0303/project/table+lamp
@@ -98,3 +98,13 @@ Startes_at: "2026-07-16"
 
 <img width="308" height="497" alt="image_2026-09-25_043020377-Photoroom" src="https://github.com/user-attachments/assets/e0309724-ed36-45da-a4b6-aa9218785c9b" />
 
+
+
+
+---
+
+
+# 2026-09-26      DFM fixes
+## lapse:  lapse.hackclub.com/timelapse/AM-mO6Sd6qfs
+### fixes all the DFM check so it will not faces any problem at the time of Manufacturing.
+ 
